@@ -1,0 +1,9 @@
+erase *.cod
+erase *.cof
+erase *.err
+erase *.hex
+erase *.lst
+erase *.o
+erase *.lib
+erase *.map
+erase *.mcs
